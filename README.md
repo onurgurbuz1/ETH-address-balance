@@ -12,3 +12,7 @@ In order to run code successfully you can type terminal 'npm run dev' and 'npm r
     ]}
     
 Detailed explanation have given in the code comments.
+
+Version Description
+Node version v14.16.0
+NPM version 8.3.0
