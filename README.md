@@ -1,4 +1,4 @@
-# ETH-adress-balace
+# ETH-address-balace
 This application receives ETH addresses and investigate their balance.
 
 In order to run code successfully you can type terminal 'npm run dev' and 'npm run start', a POST request should held to 'localhost:3000/data' in a JSON array format. An example of the JSON test content is below.
